@@ -2,4 +2,4 @@ jupyter-book
 ipywidgets
 matplotlip
 numpy
-symby
+sympy
