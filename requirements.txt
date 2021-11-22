@@ -1,5 +1,5 @@
 jupyter-book
 ipywidgets
 matplotlip
-numby
+numpy
 symby
