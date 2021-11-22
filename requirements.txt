@@ -1,0 +1,5 @@
+jupyter-book
+ipywidgets
+matplotlip
+numby
+symby
